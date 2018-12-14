@@ -10,3 +10,5 @@ Fixing on master
 Fixing Bug_456!
 
 Fixing Bug_789, will be rebased
+
+Change 7, to be stashed.
