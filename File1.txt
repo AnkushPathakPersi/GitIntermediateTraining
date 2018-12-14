@@ -1,4 +1,4 @@
-Welcome to Git!
+Welcome to Git-the stupid content tracker!
 
 Change 1
 
